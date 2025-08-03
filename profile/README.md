@@ -3,6 +3,10 @@
 官网: https://rikka-ai.com/
 欢迎来到RikkaHub仓库，这里托管了一些RikkaHub相关的项目，包括APP本体，文档，依赖库fork等
 
+## 赞助
+
+喜欢APP的话可以在这里赞助我 https://afdian.com/a/reovo
+
 ## 贡献代码
 
 欢迎贡献代码。
